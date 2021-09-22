@@ -1,4 +1,6 @@
-## Zhibek Abdykalykova
+Zhibek Abdykalykova
+=======
+
 > Computer Science Student
 #### Contacts
 * E-mail: zhibek.abdykalykova@gmail.com
@@ -23,9 +25,15 @@ Output: 54321
 Augsburg University/B.Sc. Medical Information Sciences
 Oct 2018 – Today, Augsburg, Germany
 Avg. Grade: 2.1 (good)
+
+---
+
 Philipps-Universität Marburg Studienkolleg/ T (Technical) Course
 Sep 2017 – July 2018, Marburg, Germany
 Avg. Grade: 1.7 (good)
+
+---
+
 Goethe gymnasium/Kyrgyz high school diploma
 2012 – 2017, Bishkek, Kyrgyzstan
 Avg. Grad: 1.0 (very good)
